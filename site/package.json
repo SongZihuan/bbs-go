@@ -20,7 +20,7 @@
     "bulma": "1.0.1",
     "element-plus": "2.7.7",
     "eslint": "8.56.0",
-    "nuxt": "3.12.3",
+    "nuxt": "3.16.0",
     "sass": "1.70.0",
     "typescript": "5.5.3"
   },
